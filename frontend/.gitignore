@@ -1,0 +1,24 @@
+# Node
+node_modules/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Build
+/dist/
+/build/
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vite cache
+.vite/
