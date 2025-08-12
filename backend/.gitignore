@@ -1,0 +1,30 @@
+# Node
+node_modules/
+
+# Env
+.env
+.env.local
+
+# Build
+/dist/
+/build/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+error.log
+combined.log
+
+# Coverage
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Prisma (if any local db files are created inadvertently)
+prisma/*.db
+
+# Uploads (served statically by the server)
+uploads/
